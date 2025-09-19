@@ -13,7 +13,7 @@ It supports a collapsible control panel, random auto‑refresh, one‑click copy
 
 2. After installing a userscript manager, click the link below to install the script:
 
-   **[Click here to install the latest script](https://raw.githubusercontent.com/DaybreakCoCone/Tesla-inventory-userscript-CN-/main/tesla-inventory-reporter.user.js)**
+   **[Click here to install the latest script]([https://raw.githubusercontent.com/DaybreakCoCone/Tesla-inventory-userscript-CN-/main/tesla-inventory-reporter.user.js)](https://greasyfork.org/en/scripts/550091-tesla-inventory-notifier-v5-0)**
 
 3. Once installed, you should see “Tesla Inventory Reporter” enabled in your userscript manager icon at the top‑right of the browser.
 
