@@ -1,4 +1,4 @@
-# Tesla Inventory Userscript (English Version)
+# Tesla Inventory Userscript
 
 A Tampermonkey userscript that automatically reads Tesla inventory cards, extracts exterior color, interior color, wheel size, and drive type (AWD/RWD), and pushes notifications to your phone via Pushover.
 It supports a collapsible control panel, random auto‑refresh, one‑click copy of a fixed referral link, and saving your Pushover credentials. Notifications are sent only when cars are detected.
