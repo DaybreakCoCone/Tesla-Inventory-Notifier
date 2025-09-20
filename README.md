@@ -1,5 +1,5 @@
-#<img width="1890" height="790" alt="b10dc8cb-0b49-4b41-9a6f-41f1b29aaa14" src="https://github.com/user-attachments/assets/0cfeb1bd-02ed-43e9-912b-8a7043458e7d" />
- Tesla Inventory Userscript
+<img width="1890" height="790" alt="b10dc8cb-0b49-4b41-9a6f-41f1b29aaa14" src="https://github.com/user-attachments/assets/0cfeb1bd-02ed-43e9-912b-8a7043458e7d" />
+ ## Tesla Inventory Userscript
 
 A Tampermonkey userscript that automatically reads Tesla inventory cards, extracts exterior color, interior color, wheel size, and drive type (AWD/RWD), and pushes notifications to your phone via Pushover.
 It supports a collapsible control panel, random auto‑refresh, one‑click copy of a fixed referral link, and saving your Pushover credentials. Notifications are sent only when cars are detected.
